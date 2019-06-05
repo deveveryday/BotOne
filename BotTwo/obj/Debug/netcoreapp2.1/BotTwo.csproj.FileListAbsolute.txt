@@ -1,0 +1,14 @@
+C:\Users\artur.justino\source\repos\skateeveryday\BotOne\BotTwo\obj\Debug\netcoreapp2.1\BotTwo.csprojAssemblyReference.cache
+C:\Users\artur.justino\source\repos\skateeveryday\BotOne\BotTwo\obj\Debug\netcoreapp2.1\BotTwo.csproj.CoreCompileInputs.cache
+C:\Users\artur.justino\source\repos\skateeveryday\BotOne\BotTwo\obj\Debug\netcoreapp2.1\BotTwo.RazorAssemblyInfo.cache
+C:\Users\artur.justino\source\repos\skateeveryday\BotOne\BotTwo\obj\Debug\netcoreapp2.1\BotTwo.RazorAssemblyInfo.cs
+C:\Users\artur.justino\source\repos\skateeveryday\BotOne\BotTwo\obj\Debug\netcoreapp2.1\BotTwo.AssemblyInfoInputs.cache
+C:\Users\artur.justino\source\repos\skateeveryday\BotOne\BotTwo\obj\Debug\netcoreapp2.1\BotTwo.AssemblyInfo.cs
+C:\Users\artur.justino\source\repos\skateeveryday\BotOne\BotTwo\bin\Debug\netcoreapp2.1\BotTwo.deps.json
+C:\Users\artur.justino\source\repos\skateeveryday\BotOne\BotTwo\bin\Debug\netcoreapp2.1\BotTwo.runtimeconfig.json
+C:\Users\artur.justino\source\repos\skateeveryday\BotOne\BotTwo\bin\Debug\netcoreapp2.1\BotTwo.runtimeconfig.dev.json
+C:\Users\artur.justino\source\repos\skateeveryday\BotOne\BotTwo\bin\Debug\netcoreapp2.1\BotTwo.dll
+C:\Users\artur.justino\source\repos\skateeveryday\BotOne\BotTwo\bin\Debug\netcoreapp2.1\BotTwo.pdb
+C:\Users\artur.justino\source\repos\skateeveryday\BotOne\BotTwo\obj\Debug\netcoreapp2.1\BotTwo.RazorTargetAssemblyInfo.cache
+C:\Users\artur.justino\source\repos\skateeveryday\BotOne\BotTwo\obj\Debug\netcoreapp2.1\BotTwo.dll
+C:\Users\artur.justino\source\repos\skateeveryday\BotOne\BotTwo\obj\Debug\netcoreapp2.1\BotTwo.pdb
